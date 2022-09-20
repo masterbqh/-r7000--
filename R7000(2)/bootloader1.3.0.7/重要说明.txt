@@ -1,0 +1,3 @@
+1.original_r7000_cfe.bin是原厂 bootloader ；
+2.如果要将Xwrt-Vortex固件恢复为原厂固件，将先恢复bootloader为original_r7000_cfe.bin,然后再将路由器固件恢复为原厂[恢复方法见readme.txt]；
+3.否则变砖。
